@@ -1,0 +1,2 @@
+export PATH=$PATH:/home/dhruv/ns-allinone-2.35/bin:/home/dhruv/ns-allinone-2.35/tcl8.5.10/unix:/home/dhruv/ns-allinone-2.35/tk8.5.10/unix
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/dhruv/ns-allinone-2.35/otcl-1.14:/home/dhruv/ns-allinone-2.35/lib
